@@ -2,6 +2,7 @@
   <div id="app">
     <img src="./assets/logo.png">
     <div @click=test>点击</div>
+    <div>devfenzhi</div>
     <router-view/>
   </div>
 </template>
